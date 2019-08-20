@@ -1,0 +1,265 @@
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+.parallax {
+    /* The image used */
+    background: url('C:\Users\Hp user\Desktop\ditto website_org\dragon-ball-fighter-z-super-saiyan-blue-0.jpg') no-repeat;
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-size: cover;
+}
+.backgroundimage{
+	margin-left: -20px;
+	display: block;
+
+	padding: 0% !important; 
+	/*background: url('BackgroundNormal_2.png') no-repeat center center fixed;*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+@media screen and (max-width: 568px) {
+        p {
+    font-size:60px;
+    }
+}
+@media screen and (max-width: 768px) {
+    p {
+        font-size:20px;
+    }
+}
+ 
+@media screen and (max-width: 568px) {
+    p {
+        font-size:0.8em;
+    }
+}
+#icon {
+  width: 53px;
+  height: 32px;
+  color: #ffffff;
+  font-family: SourceSansPro;
+  font-size: 20px;
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 400;
+  text-align: left;
+	margin-top: 10px;
+}
+#menu {
+  width: 1308px;
+  height: 40px;
+  color: #250f8a;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 400;
+  text-align: center;
+}
+.navbar-default {
+    background: none;
+	border: none;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 0px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+#button {
+  border-radius: 20px;
+  width: 100px;
+  height: 40px;
+  background: #ffffff;
+  color: #250f8a;
+  font-family: SourceSansPro;
+  font-size: 15px;
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 5px;
+  padding: 10px;
+}
+#weBuildAppsWebsitesforYourBusiness {
+  width: 506px;
+  height: 120px;
+  color: #ffffff;
+  font-family: SourceSansPro;
+  font-size: 50px;
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 700;
+  text-align: left;
+      padding-top: 120px;
+}
+#forstartupsForbusinessesForyou {
+  width: 379px;
+  height: 55px;
+  color: #ffffff;
+  font-family: SourceSansPro;
+  font-size: 19px;
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 400;
+  text-align: left;
+	    padding-top: 128px;
+}
+#quote {
+    border-radius: 30px;
+    width: 150px;
+    height: 42px;
+    color: #ffffff;
+    font-family: SourceSansPro;
+    font-size: 15px;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 700;
+    text-align: center;
+    background-color: #ffcc00;
+    margin-left: -990px;
+    margin-top: 30px;
+}
+#wearespecialisedin {
+  width: 320px;
+  height: 45px;
+  color: #202020;
+  font-family: SourceSansPro;
+  font-size: 35px;
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 700;
+  text-align: left;
+}
+#style {
+    margin-left: -16px;
+    margin-top: 200px;
+	max-width: 120px;
+	max-height: 200px;
+}
+#threerows{
+	background: linear-gradient(to bottom, #ccffff 0%, #ffffff 100%);
+}
+#howwework1{
+	    width: 500px;
+    height: 485px;
+}
+
+#howwework2{
+    width: 500px;
+    height: 490px;
+}
+#howwework3{
+	     width: 505px;
+    height: 490px;
+}
+#lastfooter{
+	    margin: -325px -23px 0px -8px;
+	display: block;
+}
+#mainfooter {
+         width: 1343px;
+  height: auto;
+  color: #272727;
+  font-family: SourceSansPro;
+/*  font-size: 1px;*/
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 400;
+  text-align: left;
+	    /*margin-top: 160px;*/
+	    margin-left: -15px;
+	
+}
+
+#boxblock{
+	 width: 100%;
+  height: 0px;
+	text-align: center;
+}
+#blockquote1{
+	padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+	    border-left: 0px;
+}
+#blockquote2{
+	padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+	    border-left: 0px;
+}
+#blockquote3{
+	padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+	    border-left: 0px;
+}
+
+.quotesymbol{
+	font-size: 80px;
+}
+
+.footertext
+{
+	font-size: 15px;
+	border: none;
+	border-radius: none;
+	background-color: white;
+	    width: 1745px;
+	
+}
+
+.blocktext{
+	    margin: -25px 0 15px;
+}
+#blockbox1{
+	border: 25px;
+	box-shadow: 25px;
+	border-color: crimson;
+	
+	
+}
+#blockbox2{
+	border: 25px;
+	box-shadow: 25px;
+	border-color: crimson;
+	
+}
+#blockbox3{
+	border: 25px;
+	box-shadow: 25px;
+	border-color: crimson;
+	
+}
+
+div.transbox {
+  margin: 30px;
+  height: 400px;
+  background-color: #ffffff;
+  border: 0px solid black;
+  /*opacity: 0.3;*/
+  /*background: rgb(204, 204, 204);  Fallback for older browsers without RGBA-support */
+    background: rgba(204, 204, 204, 0.25);
+  border-radius: 10px;
+  /*filter: alpha(opacity=30); /* For IE8 and earlier */*/
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: 600;
+  color: #000000;
+}
+
+
